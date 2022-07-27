@@ -1,2 +1,2 @@
 # Task-list
-I have created a to do list by using CSS,JAVASCRIPT,HTML.
+I have created a simple to do list by using CSS,JAVASCRIPT,HTML.
